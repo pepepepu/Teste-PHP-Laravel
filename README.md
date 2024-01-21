@@ -4,17 +4,21 @@
 
 - A aplicação possibilita a realização das 4 operações básicas de CRUD, create (criar), read (ler), update (atualizar) e delete (excluir), nos três modelos principais da aplicação: Clients, Products e Purchases.
 
-- A aplicação oferece uma interface amigável, intuitíva e de fácil utilização.
+- A aplicação oferece uma interface amigável, intuitiva e de fácil utilização.
 
 ![Tela inicial](public/images/tela-inicial.png)
 
-- É filtragem de informações pode ser feita através da visualização das categorias em ordem crescente ou decrescente.
+- A filtragem de informações pode ser feita através da visualização das categorias em ordem crescente ou decrescente.
+
+![Filtros](public/images/filtros.png)
 
 - Em Purchases, é possível ter uma visualização completa do pedido, incluindo informações do comprador, do produto, valores e status do pedido.
 
 ![Informações do Pedido_](public/images/info-pedidos.png)
 
-- É possivel realizar a edição e a remoção de qualquer item, de qualquer tabela.
+- É possivel realizar a edição e a remoção de qualquer item, de qualquer tabela. E no caso de Purchases, é possível visualizar as informações.
+
+![Ações](public/images/acoes.png)
 
 ## 📚 Recursos necessários
 
