@@ -44,7 +44,7 @@ copy .env.example .env
 php artisan key:generate
 ```
 
-Altere as variaveis de ambiente em .env de acordo com as propiedades do seu banco de dados
+#### Altere as variaveis de ambiente em .env de acordo com as propiedades do seu banco de dados
 
 ```properties
 DB_DATABASE= <database>
@@ -90,7 +90,7 @@ http://127.0.0.1:8000/clients
 
 http://127.0.0.1:8000/products
 
-http://127.0.0.1:8000/orders
+http://127.0.0.1:8000/purchases
 ```
 
 Paginas de cadastro.
@@ -100,7 +100,7 @@ http://127.0.0.1:8000/clients/create
 
 http://127.0.0.1:8000/products/create
 
-http://127.0.0.1:8000/orders/create
+http://127.0.0.1:8000/purchases/create
 ```
 
 Paginas de atualização.
@@ -110,7 +110,7 @@ http://127.0.0.1:8000/clients/{client}/edit
 
 http://127.0.0.1:8000/products/{product}/edit
 
-http://127.0.0.1:8000/orders/{purchase}/edit
+http://127.0.0.1:8000/purchases/{purchase}/edit
 ```
 
 Paginas de deleção.
